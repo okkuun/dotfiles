@@ -1,0 +1,22 @@
+# マシン固有のzsh設定（Git管理外）
+# このファイルを ~/.zshrc.local にコピーして編集してください
+#
+# cp ~/work/dotfiles/dotfiles/.zshrc.local.example ~/.zshrc.local
+
+# =============================================================================
+# 仕事用PCの場合
+# =============================================================================
+
+# Google Cloud SDK設定（仕事用プロジェクト）
+# export GOOGLE_CLOUD_PROJECT="your-project-id"
+# export GOOGLE_CLOUD_LOCATION="asia-northeast1"
+
+# =============================================================================
+# その他のマシン固有設定
+# =============================================================================
+
+# 例: マシン固有のPATH追加
+# export PATH="$HOME/custom/bin:$PATH"
+
+# 例: マシン固有のエイリアス
+# alias myproject="cd ~/work/my-project"

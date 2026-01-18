@@ -1,0 +1,8 @@
+[core]
+  excludesfile = ~/.gitignore_global
+
+[include]
+  path = ~/.gitconfig.profile
+
+[include]
+  path = ~/.gitconfig.local

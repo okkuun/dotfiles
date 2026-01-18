@@ -1,0 +1,4 @@
+# 社用PC専用のパッケージを記載する
+
+brew "pyenv"
+brew "pipenv"

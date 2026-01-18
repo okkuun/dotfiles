@@ -1,0 +1,41 @@
+# 共通で使うパッケージを記載する
+
+# ====================
+# CLI Tools
+# ====================
+brew "git"
+brew "gh"
+brew "fzf"
+brew "bat"
+brew "eza"
+brew "jq"
+brew "tree"
+brew "zoxide"
+
+# ====================
+# Development
+# ====================
+brew "mise"
+brew "docker"
+brew "colima"
+brew "awscli"
+brew "tfenv"
+cask "gcloud-cli"
+brew "starship"
+
+# ====================
+# Applications
+# ====================
+cask "iterm2"
+cask "cursor"
+cask "raycast"
+cask "alt-tab"
+
+tap "FelixKratz/formulae"
+brew "FelixKratz/formulae/borders"
+
+# ====================
+# Fonts
+# ====================
+cask "font-jetbrains-mono-nerd-font"
+cask "font-maple-mono-nf"
